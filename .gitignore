@@ -1,0 +1,8 @@
+venv/*
+myvenv/*
+.idea/*
+db.sqlite3
+firstproject/__pycache__/
+.vscode/
+firstapp/__pycache__/
+firstapp/migrations/
